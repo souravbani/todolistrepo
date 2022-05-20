@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/static/js/main.ef4b2e25.chunk.js",
-    "main.js.map": "/static/js/main.ef4b2e25.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e665d2f4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e665d2f4.js.map",
-    "static/js/2.dead7bc0.chunk.js": "/static/js/2.dead7bc0.chunk.js",
-    "static/js/2.dead7bc0.chunk.js.map": "/static/js/2.dead7bc0.chunk.js.map",
-    "static/js/3.263a9caf.chunk.js": "/static/js/3.263a9caf.chunk.js",
-    "static/js/3.263a9caf.chunk.js.map": "/static/js/3.263a9caf.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.dead7bc0.chunk.js.LICENSE.txt": "/static/js/2.dead7bc0.chunk.js.LICENSE.txt"
+    "main.css": "/todolistrepo/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/todolistrepo/static/js/main.ef4b2e25.chunk.js",
+    "main.js.map": "/todolistrepo/static/js/main.ef4b2e25.chunk.js.map",
+    "runtime-main.js": "/todolistrepo/static/js/runtime-main.f7c55bfb.js",
+    "runtime-main.js.map": "/todolistrepo/static/js/runtime-main.f7c55bfb.js.map",
+    "static/js/2.dead7bc0.chunk.js": "/todolistrepo/static/js/2.dead7bc0.chunk.js",
+    "static/js/2.dead7bc0.chunk.js.map": "/todolistrepo/static/js/2.dead7bc0.chunk.js.map",
+    "static/js/3.263a9caf.chunk.js": "/todolistrepo/static/js/3.263a9caf.chunk.js",
+    "static/js/3.263a9caf.chunk.js.map": "/todolistrepo/static/js/3.263a9caf.chunk.js.map",
+    "index.html": "/todolistrepo/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/todolistrepo/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.dead7bc0.chunk.js.LICENSE.txt": "/todolistrepo/static/js/2.dead7bc0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e665d2f4.js",
+    "static/js/runtime-main.f7c55bfb.js",
     "static/js/2.dead7bc0.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.ef4b2e25.chunk.js"
